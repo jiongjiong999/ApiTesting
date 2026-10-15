@@ -1,0 +1,7 @@
+2026-10-15 12:30:09,962 - startup.py - INFO: 根据接口抓包数据，自动生成测试用例和测试脚本，然后运行测试！
+2026-10-15 12:30:09,964 - writeCaseYml.py - INFO: 读取抓包文件主目录: D:/github_projects/ApiTesting/PyDemo/data
+2026-10-15 12:30:10,016 - writeCaseYml.py - INFO: 读取抓包文件: addAudltCard.chlsj
+2026-10-15 12:30:10,042 - writeCaseYml.py - INFO: 读取抓包文件: addOrUpCurBact.chlsj
+2026-10-15 12:30:10,058 - writeCaseYml.py - INFO: 读取抓包文件: findParam.chlsj
+2026-10-15 12:30:10,073 - writeCaseYml.py - INFO: 读取抓包文件: getAdultCurbactList.chlsj
+2026-10-15 12:30:10,087 - writeCaseYml.py - INFO: 读取抓包文件: initCanSelInfo.chlsj
